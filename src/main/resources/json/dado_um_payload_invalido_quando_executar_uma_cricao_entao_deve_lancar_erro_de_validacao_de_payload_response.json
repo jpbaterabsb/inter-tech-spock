@@ -1,0 +1,7 @@
+{
+  "idade": "a idade é obrigatória",
+  "salario": "o campo salário não é obrigatório",
+  "nome": "o campo nome é obrigatorio",
+  "nivel": "o campo nivel é obrigatório",
+  "email": "o campo email é obrigatório"
+}
