@@ -68,19 +68,4 @@ class DesenvolvedorServiceTest {
         ValidationException validationException = assertThrows(ValidationException.class, () -> desenvolvedorService.create(mockDesenvolvedor));
         assertEquals( "Este e-mail já esta cadastrado em nossa plataforma", validationException.getMessage());
     }
-
-    @Test
-    void update() {
-        fail();
-    }
-
-    @Test
-    void findAll() {
-        fail();
-    }
-
-    @Test
-    void testFindAll() {
-        fail();
-    }
 }
